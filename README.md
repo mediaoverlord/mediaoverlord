@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**mediaoverlord/mediaoverlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=mediaoverlord&color=a97579&label= VOX +DEI )
+ 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
+![](https://files.catbox.moe/bxt39t.png)
+ 
+  
+
+
+    
+$\texttt{\color{#764667} }$\
+$\texttt{\color{#764667}rocket}$\
+$\texttt{\color{#8f5c70}she he}$\
+$\texttt{\color{#af767c}vox4laif}$
+
+[info](https://fluffle.cc/mediaoverlord)   [prns.cc](https://pronouns.cc/@rocket)
+
+</div>
