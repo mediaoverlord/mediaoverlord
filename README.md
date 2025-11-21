@@ -16,7 +16,7 @@
 $\texttt{\color{#764667} }$\
 $\texttt{\color{#764667}rocket}$\
 $\texttt{\color{#8f5c70}she he}$\
-$\texttt{\color{#af767c}vox4laif}$
+$\texttt{\color{#a36e76}I kin characters}$
 
 [info](https://fluffle.cc/mediaoverlord)   [prns.cc](https://pronouns.cc/@rocket)
 
