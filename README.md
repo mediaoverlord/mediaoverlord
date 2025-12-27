@@ -1,23 +1,14 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=mediaoverlord&color=a97579&label= VOX +DEI )
+![](https://komarev.com/ghpvc/?username=mediaoverlord&color=86994f&label= RAINING +TACOS )
  
   
 
 
     
-![](https://files.catbox.moe/bxt39t.png)
- 
-  
+![](https://files.catbox.moe/dqu51u.png)
 
-
-    
-$\texttt{\color{#764667} }$\
-$\texttt{\color{#764667}rocket}$\
-$\texttt{\color{#8f5c70}she he}$\
-$\texttt{\color{#a36e76}I kin characters}$
-
-[info](https://fluffle.cc/mediaoverlord)   [prns.cc](https://pronouns.cc/@rocket)
+[about me](https://rentry.co/remixingblitz)   [prns.cc](https://pronouns.cc/@rocket)
 
 </div>
